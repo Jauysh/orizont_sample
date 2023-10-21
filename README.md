@@ -1,2 +1,2 @@
-# bar_qalan
+# Orizont sample
 testing the 1st steps
